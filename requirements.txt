@@ -1,5 +1,5 @@
-altair
+langchain
+openai
 numpy
 pandas
-pydeck
 streamlit
