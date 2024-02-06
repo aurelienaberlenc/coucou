@@ -14,6 +14,9 @@
 
 import streamlit as st
 from streamlit.logger import get_logger
+from langchain.llms import OpenAI
+
+openai_api_key = "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"
 
 LOGGER = get_logger(__name__)
 
